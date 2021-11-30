@@ -1,7 +1,7 @@
-
+import java.util.ArrayList;
 
 public class ExceptionsTest {
-    public static void main(String[], args) {
+    public static void main(String[] args) {
 
         ArrayList<Object> myList = new ArrayList<Object>();
         myList.add("13");
